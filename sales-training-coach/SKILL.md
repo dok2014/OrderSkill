@@ -8,7 +8,7 @@ description: >
   (3) 执行AI销售场景推演（角色扮演/压力测试/多路径推演）
   (4) 生成场景化销售习题和评估反馈
   (5) 追踪学习记录到多维表格
-  触发词：晨课、午课、跟单培训、销售训练、推演、销售练习、场景模拟、角色扮演、销售培训
+  触发词：晨课、午课、跟单培训、销售训练、练习模拟、培训模拟、教学、角色扮演、销售培训
 ---
 
 # OrderCoach 跟单培训
@@ -25,7 +25,7 @@ description: >
 |------|----------|----------|
 | 晨课教学 | "晨课"、"早课"、"开始晨课" | `references/course-morning.md` |
 | 午课教学 | "午课"、"下午课"、"专业承诺" | `references/course-afternoon.md` |
-| 场景推演 | "推演"、"模拟"、"角色扮演"、"练习" | `references/practice-engine.md` |
+| 场景推演 | "练习模拟"、"培训模拟"、"角色扮演"、"练习" | `OrderFollower/SKILL.md` 场景推演引擎 |
 | 评估反馈 | "点评"、"评估"、"分析"、"打分" | `references/assessment-guide.md` |
 | 记录追踪 | "记录"、"表格"、"学习记录"、"进度" | `references/tracking-guide.md` |
 
@@ -60,7 +60,7 @@ description: >
 收到 "来一次推演" / "模拟一下" / "练习" 类请求时：
 
 1. 询问 ①客户/场景背景 ②练习目标（如破冰/报价/异议处理/竞品PK）
-2. 按 `references/practice-engine.md` 执行三层推演
+2. 按 `OrderFollower/SKILL.md` 场景推演引擎执行三层推演
 3. 推演输出格式：场景复盘 → OrderFollower方法论对照 → Action Items
 
 ### 教学评估原则

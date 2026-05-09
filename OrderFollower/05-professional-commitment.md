@@ -149,22 +149,22 @@
 ## 七、与现有Skill文件的协同
 
 ### 7.1 与售前协同技能结合
-- 在`skill-sales-presales-collaboration.md`的"边界红线"基础上
+- 在`03-sales-presales-collaboration.md`的"边界红线"基础上
 - 提供具体的委婉拒绝话术和操作框架
 - 将理论原则转化为可执行的沟通策略
 
 ### 7.2 与机会评估技能结合  
-- 在`skill-opportunity-evaluation.md`的风险评估基础上
+- 在`01-opportunity-evaluation.md`的风险评估基础上
 - 增加对客户不合理期望的管理策略
 - 提供将高风险机会转化为可控机会的方法
 
 ### 7.3 与退出判断技能结合
-- 在`skill-pre-sales-exit.md`的退出信号识别基础上
+- 在`04-exit-decision.md`的退出信号识别基础上
 - 增加退出过程中的客户关系维护话术
 - 提供"优雅退出"而非"突然消失"的沟通框架
 
 ### 7.4 与跟单执行技能结合
-- 在`skill-ai-sales-assistant.md`的TODO生成基础上
+- 在`02-sales-assistant.md`的TODO生成基础上
 - 增加对不可控任务的承诺管理
 - 提供风险任务的进度透明化沟通方法
 
