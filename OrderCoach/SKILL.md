@@ -15,7 +15,7 @@ description: >
 
 ## 概览
 
-本技能是 **OrderFollower（初步跟单）** 方法论体系的配套训练系统。OrderFollower 提供完整的销售实战方法论（机会评估→跟单执行→售前协同→退出判断→专业承诺），OrderCoach 负责将其转化为可教学、可练习、可追踪的训练课程体系。
+本技能是 **OrderFollower（初步跟单）** 方法论体系的配套训练系统。OrderFollower 提供完整的销售实战方法论（机会评估→跟单执行→售前协同→方案共识→退出判断→专业承诺→合同风控），OrderCoach 负责将其转化为可教学、可练习、可追踪的训练课程体系。
 
 > **二者关系**：OrderFollower = 实战工具箱，OrderCoach = 培训教练。OrderCoach 在教学中直接调用 OrderFollower 的方法论框架作为教学和评估依据。
 
@@ -38,17 +38,17 @@ description: >
 | OrderCoach 训练模块 | OrderFollower 方法论支撑 |
 |---------------------|--------------------------|
 | 晨课Day1：场景判断力 | `01-opportunity-evaluation.md` 机会评估框架（BANT+MEDDIC） |
-| 晨课Day2：话术演练 | `02-sales-assistant.md` 跟单执行+SPIN/FABE沟通框架 |
+| 晨课Day2：话术演练 | `02-sales-assistant.md` 跟单执行+SPIN/FABE沟通框架（含教练培育） |
 | 晨课Day3：工作习惯复盘 | 综合全流程 + 执行追踪原则 |
 | 晨课Day4：销售认知升级 | 全流程方法论提炼 |
-| 午课Day1：客户需求管理 | `05-professional-commitment.md` 专业承诺框架 |
-| 午课Day2：沟通边界设定 | `05-professional-commitment.md` 边界设定原则 |
-| 午课Day3：资源谈判技巧 | `04-exit-decision.md` + `03-sales-presales-collaboration.md` |
-| 午课Day4：方案呈现优化 | 综合方法论 |
-| 午课Day5：客户期望管理 | `05-professional-commitment.md` 期望管理 |
+| 午课Day1：客户需求管理 | `06-professional-commitment.md` 专业承诺框架 |
+| 午课Day2：沟通边界设定 | `06-professional-commitment.md` 边界设定原则 |
+| 午课Day3：资源谈判技巧 | `05-exit-decision.md` + `03-sales-presales-collaboration.md` |
+| 午课Day4：方案呈现优化 | `04-solution-consensus.md` 方案共识确认 |
+| 午课Day5：客户期望管理 | `06-professional-commitment.md` 期望管理 |
 | 午课Day6：危机处理话术 | `02-sales-assistant.md` 风险预警 |
-| 午课Day7：综合实战演练 | 全流程综合调用 |
-| 场景推演评估 | `01-05` 全部方法论框架 |
+| 午课Day7：综合实战演练 | 全流程综合调用 + `07-contract-risk-control.md` 合同风控 |
+| 场景推演评估 | `01-07` 全部方法论框架 |
 
 ## 快速启动
 

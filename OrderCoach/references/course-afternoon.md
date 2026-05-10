@@ -2,7 +2,7 @@
 
 ## 体系说明
 
-午课是 **OrderCoach（跟单培训）** 的核心课程之一，教学内容围绕 **OrderFollower（初步跟单）** 中 `05-professional-commitment.md` 专业承诺方法论展开，并综合调用其他模块。
+午课是 **OrderCoach（跟单培训）** 的核心课程之一，教学内容围绕 **OrderFollower（初步跟单）** 中 `06-professional-commitment.md` 专业承诺方法论展开，并综合调用其他模块。
 
 ## 基础参数
 
@@ -15,13 +15,13 @@
 
 | Day | 主题 | 对应 OrderFollower 文件 | 教学形式 |
 |-----|------|------------------------|----------|
-| 1 | 客户需求管理 | `05-professional-commitment.md`（承接情绪→量化门槛） | 场景任务 → 学员作答 → 四维度评估 |
-| 2 | 沟通边界设定 | `05-professional-commitment.md`（边界设定原则） | 场景任务 → 学员作答 → 四维度评估 |
-| 3 | 资源谈判技巧 | `04-exit-decision.md` + `03-sales-presales-collaboration.md` | 场景任务 → 学员作答 → 四维度评估 |
-| 4 | 方案呈现优化 | 综合方法论（SPIN+FABE） | 场景任务 → 学员作答 → 四维度评估 |
-| 5 | 客户期望管理 | `05-professional-commitment.md`（期望管理） | 场景任务 → 学员作答 → 四维度评估 |
+| 1 | 客户需求管理 | `06-professional-commitment.md`（承接情绪→量化门槛） | 场景任务 → 学员作答 → 四维度评估 |
+| 2 | 沟通边界设定 | `06-professional-commitment.md`（边界设定原则） | 场景任务 → 学员作答 → 四维度评估 |
+| 3 | 资源谈判技巧 | `05-exit-decision.md` + `03-sales-presales-collaboration.md` | 场景任务 → 学员作答 → 四维度评估 |
+| 4 | 方案呈现优化 | `04-solution-consensus.md`（方案共识确认） | 场景任务 → 学员作答 → 四维度评估 |
+| 5 | 客户期望管理 | `06-professional-commitment.md`（期望管理） | 场景任务 → 学员作答 → 四维度评估 |
 | 6 | 危机处理话术 | `02-sales-assistant.md`（风险预警+沟通框架） | 场景任务 → 学员作答 → 四维度评估 |
-| 7 | 综合实战演练 | 全流程（01-05）综合调用 | 总结性综合模拟测试 |
+| 7 | 综合实战演练 | 全流程（01-07）综合调用 | 总结性综合模拟测试 |
 
 ## 动态天次计算
 
